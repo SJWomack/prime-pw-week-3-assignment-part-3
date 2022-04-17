@@ -1,1 +1,8 @@
 /* give your assignment a fun background color */
+html{
+    background-color: black;
+}
+
+body{
+    background-color: bisque;
+}
