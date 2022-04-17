@@ -98,4 +98,4 @@ partsAvailable -=7;
 boxes ++;
 }
 
-console.log (`There are ${boxes} filled, and ${partsAvailable} left over.`);
+console.log (`There are ${boxes} boxes filled, and ${partsAvailable} parts left over.`);
